@@ -115,7 +115,8 @@ Worked as an Associate handling end-to-end Record-to-Report (R2R) activities, an
 
 | Certification | Issuer |
 |----------------|----------|
-| 📊 Data Analytics | TuteDude |
+| Data Analytics | TuteDude |
+| Link | https://github.com/junaidyusuf580/Mohd-Junaid-Professional-Portfolio/tree/main/Certificates |
 
 
 ---
