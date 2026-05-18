@@ -17,7 +17,7 @@
 
 > MBA in Marketing & Finance with **8 years of diverse experience** spanning Record-to-Analyze (R2A),Record-to-Report(R2R) operations, accounting, and client servicing. Proven expertise in financial processes, data reconciliation, and business operations gained through roles at **Capgemini**, **B.I Traders**, and **Intelenet Global Services**.
 >
-> Recently upskilled in data analytics with hands-on proficiency in **Python, SQL, Power BI, PyCharm-streamlit, GitHub and Statistics** — combining strong financial acumen with analytical and problem-solving capabilities.
+> Upskilled in data analytics with hands-on proficiency in **Python, SQL, Power BI, PyCharm-streamlit, GitHub and Statistics** — combining strong financial acumen with analytical and problem-solving capabilities.
 
 ---
 
@@ -61,7 +61,7 @@ Worked as an Associate handling end-to-end Record-to-Report (R2R) activities, an
 | 🗄️ **SQL** | Joins, Window Functions, Subqueries, Group By, Aggregation |
 | 📊 **Power BI** | ETL, Data Modeling, DAX Functions, Dashboards |
 | 📑 **Excel** | Pivot Tables, Power Query, Lookup, Logical, Conditional, Statistical, Date & Time |
-| 📐 **Statistics** | Core Concepts & Applied Analysis |
+| 📐 **Statistics** | Descriptive Analysis & Inferential Analysis and Machine Learning Core Concepts|
 
 ---
 
