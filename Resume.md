@@ -80,6 +80,7 @@ Worked as an Associate handling end-to-end Record-to-Report (R2R) activities, an
 
 > Built an end-to-end Inventory Management Dashboard using MySQL, Python, and Streamlit to manage products, track inventory history, monitor suppliers, and display real-time business KPIs through an interactive user-friendly interface.
 
+*Review more projects on GitHub*
 `🌐 GitHub: github.com/junaidyusuf580`
 ---
 
@@ -117,6 +118,7 @@ Worked as an Associate handling end-to-end Record-to-Report (R2R) activities, an
 |----------------|----------|
 | Data Analytics | TuteDude |
 | Link | https://github.com/junaidyusuf580/Mohd-Junaid-Professional-Portfolio/tree/main/Certificates |
+|Five Real World Projects | https://learnwith.campusx.in/share-certificate?serialno=8AQF6DDD I earned a certificate|
 
 
 ---
